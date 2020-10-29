@@ -1,1 +1,1 @@
-# Linear-Engineering-Systems (MATLAB)
+# Linear Engineering Systems (MATLAB)
